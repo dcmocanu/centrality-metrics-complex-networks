@@ -21,6 +21,6 @@ If you will use this code in your work please cite the article:
 
 GoT examples: 
 
-_ "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper), 
+_ "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with Figure 1 from the paper);
 
 _ "game-of-thieves/example_GOT_random_networks.py" is running GOT on a random generated network.
