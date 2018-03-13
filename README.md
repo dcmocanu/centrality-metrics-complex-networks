@@ -19,7 +19,7 @@ If you will use this code in your work please cite the article:
   url =           {https://www.nature.com/articles/s41598-018-19356-4}
 }
 
-GOT examples: 
+GoT examples: 
 
 _ "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper), 
 
