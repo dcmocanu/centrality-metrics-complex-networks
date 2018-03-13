@@ -1,11 +1,10 @@
 # centrality-metrics-complex-networks
-Author: Decebal Mocanu;
 Proof of concept implementations of various centrality metrics for complex networks developed by us;
 The following implementations are distributed in the hope that they may be useful, but WITHOUT ANY WARRANTIES; Their use is entirely at the user's own risk.
 
 Implementation 1:
 
-Game of Thieves (GoT)- metric to compute nodes and links centrality in complex networks or graphs;
+Game of Thieves (GoT) - metric to compute nodes and links centrality in complex networks or graphs;
 It is a pre-alpha free software and was tested with Python 2.7.12, Matplotlib 2.1.0, Numpy 1.14, NetworkX 2.0;
 For an easy understanding of its behavior please read its corresponding article.
 
@@ -20,4 +19,8 @@ If you will use this code in your work please cite the article:
   url =           {https://www.nature.com/articles/s41598-018-19356-4}
 }
 
-Run GOT examples: (1) "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper), and (2) "game-of-thieves/example_GOT_random_networks.py" is running GOT on a random generated network.
+GOT examples: 
+
+_ "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper), 
+
+_ "game-of-thieves/example_GOT_random_networks.py" is running GOT on a random generated network.
