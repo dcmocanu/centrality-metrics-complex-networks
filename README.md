@@ -1,7 +1,7 @@
 # centrality-metrics-complex-networks
 Author: Decebal Mocanu;
-Proof of concept implementations of various centrality metrics for complex networks developed by us.
-The following implementations are distributed in the hope that they may be useful, but WITHOUT ANY WARRANTIES; Their use is entirely at the user's own risk;
+Proof of concept implementations of various centrality metrics for complex networks developed by us;
+The following implementations are distributed in the hope that they may be useful, but WITHOUT ANY WARRANTIES; Their use is entirely at the user's own risk.
 
 Implementation 1:
 
@@ -20,6 +20,4 @@ If you will use this code in your work please cite the article:
   url =           {https://www.nature.com/articles/s41598-018-19356-4}
 }
 
-Run GOT examples:
-_ "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper)
-_ "game-of-thieves/example_GOT_random_networks.py" is running GOT on a random generated network
+Run GOT examples: (1) "game-of-thieves/example_GOT_illustration.py" is creating a nice visualization of GOT behavior (similar with the Figure 1 from the paper), and (2) "game-of-thieves/example_GOT_random_networks.py" is running GOT on a random generated network.
