@@ -1,10 +1,10 @@
-# Author: Decebal Mocanu;
+# Author: Decebal Constantin Mocanu;
 # Proof of concept implementation of the Game of Thieves (GoT) - a metric to compute nodes and links centrality in complex networks or graphs;
 # This is a pre-alpha free software and was tested with Python 2.7.12, Matplotlib 2.1.0, Numpy 1.14, NetworkX 2.0;
 # The code is distributed in the hope that it may be useful, but WITHOUT ANY WARRANTIES; The use of this software is entirely at the user's own risk;
 # For an easy understanding of the code functionality please read the following article.
 
-# If you will use this code please cite its corresponding article:
+# If you use this code please cite its corresponding article:
 #@article{Mocanu2018GOT,
 #  author =        {Mocanu, Decebal Constantin and Exarchakos, Georgios and Liotta, Antonio},
 #  journal =       {Scientific Reports},
